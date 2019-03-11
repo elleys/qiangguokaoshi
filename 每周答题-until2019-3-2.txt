@@ -1,8 +1,8 @@
 ﻿2019年3月第二周答题
-1. A B    
-2. 许海峰    
-3. C D    
-4. A    
+1. A B
+2. 许海峰
+3. C D
+4. A
 5. 警犬啸天
 
 2019年3月第一周答题
@@ -12,11 +12,11 @@
 4、B
 5、报效祖国
 
-2019年2月第四周答案： 
+2019年2月第四周答案：
 1、社会主义核心价值观
-2、B 
-3、中华水塔 
-4、A 
+2、B
+3、中华水塔
+4、A
 5、建设共产主义
 
 2019年2月第三周答案：
@@ -159,4 +159,5 @@
 4、ABC
 5、共同富裕
 
-edit by sheldon.chen
+Edit by sheldon.chen
+U can get the recent version in https://github.com/elleys/qiangguokaoshi/tree/master
